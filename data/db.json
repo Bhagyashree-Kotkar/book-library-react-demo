@@ -1,45 +1,6 @@
 {
   "UserDetails": [
-    {
-      "firstName": "ness",
-      "lastName": "ness",
-      "email": "ness@gmail.com",
-      "password": "ness@123",
-      "userRole": "user",
-      "id": 1
-    },
-    {
-      "firstName": "Bhagyashree",
-      "lastName": "Kotkar",
-      "email": "bhagyashreekotkar95.09@gmail.com",
-      "password": "Bhagu@25",
-      "userRole": "admin",
-      "id": 2
-    },
-    {
-      "firstName": "Mohinee",
-      "lastName": "Hambire",
-      "email": "mohineehambire@ness.com",
-      "password": "mohinne@123",
-      "userRole": "user",
-      "id": 3
-    },
-    {
-      "firstName": "Pratha",
-      "lastName": "Birla",
-      "email": "Prathabirla@gmail.com",
-      "password": "Pratha@123",
-      "userRole": "user",
-      "id": 4
-    },
-    {
-      "firstName": "Anwita",
-      "lastName": "Wagale",
-      "email": "anwitawagale@ness.com",
-      "password": "Anwita@123",
-      "userRole": "admin",
-      "id": 5
-    }
+   
   ],
   "Orders": [],
   "Favourites": [],
